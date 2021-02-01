@@ -1,0 +1,66 @@
+body{
+text-align: center;
+}
+#img1{
+border-width:7px;
+border-style:solid;
+border-color:red;
+}
+#h1{
+color:red;
+text-shadow:120px 30px cyan;
+font-size:40px;
+}
+#h2{
+color:blue;
+font-size:30px;
+}
+#p1{
+font-size:25px;
+color:green;
+}
+.img{
+border-style:ridge; 
+border-color: red;
+border-width: 12px;
+}
+#start{
+background: linear-gradient(red 0%,blue 100%);
+padding: 50px;
+}
+#info{
+background: linear-gradient(orange 0%,pink 100%);
+padding: 50px;
+}
+#my_favourite_cars{
+background: linear-gradient(cyan 0%,lime 100%);
+padding: 50px;
+}
+#my_favourite_actors{
+background: linear-gradient(brown 0%,yellow 100%);
+padding: 50px;
+height: 900px;
+}
+#my_inspiration{
+background: linear-gradient(purple 0%,violet 100%);
+    padding: 50px;
+}
+#imgp{
+height: 500px;
+width: 400px;
+border-width: 20px;
+border-color: blue;
+border-style: ridge;
+}
+#p2{
+font-size: 20px;
+color: black;
+}
+#h5{
+font-size: 35px;
+color: chocolate;
+}
+#my_contacts{
+background: linear-gradient(orange 0%,#ffb833 100%);
+padding: 50px;
+}
